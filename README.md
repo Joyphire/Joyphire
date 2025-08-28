@@ -1,30 +1,31 @@
- ## <p align="center"> Olá! Bem-vindo ao meu perfil do Github </p>
- 
- <img align="right" src= "https://user-images.githubusercontent.com/121899934/227589972-1a01094d-2aa9-45ff-8179-f750b6d69c55.png"  width="200" height="450"/>
+<div align="center"> 
+<pre>
+     Hi, I'm **Joyce** — C# .NET developer & cybersecurity enthusiast.  
+     I build secure applications and explore the world of cybersecurity. 🛡️💻
+</pre>
+</div>
 
-
-  ## Sobre mim
-
-   <p>╔═════════════════════════════════════════════</p>
-      
-   - ➺ Atualmente estou em uma jornada para construir grandes coisas
-   - ➺ Recém-formado em analise e desenvolvimento de sistemas
- 
-   <p> ═════════════════════════════════════════════╝</p>  
-
-  
- ## ✧ Estou aprendendo sobre ✧
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"  width="40" height="40"> <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"  width="40" height="40"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"  width="40" height="40"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"  width="40" height="40">
-          
- <!--## ✧ Estatísticas do Github ✧   
-        
 <div>
-<a href="https://github.com/Strelizya">
-<img height="162" src="https://github-readme-stats.vercel.app/api?username=Strelizya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="181"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strelizya&layout=compact&langs_count=7&theme=dracula"/>
-</div>-->
+<img width="31%" align="right" src="https://raw.githubusercontent.com/Joyphire/Joyphire/main/assets/RightGif.gif"/>
+<pre>
+🛠️ What I Work With
+ 
+**Languages:** C#, SQL  
+**Frameworks:** .NET, ASP.NET Core, Entity Framework  
+**Cybersecurity:** Application Security, Vulnerability Assessment, Secure Coding  
+**Tools & Platforms:** Visual Studio, Git/GitHub, Postman, Burp Suite, Wireshark  
+</pre>
+</div>
 
-## ✧ Meus contatos ✧   
-  <a href = "mailto:joycead2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joyce-dias-de-almeida-27a140312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div>
+<pre>
+ 
+> I see **coding** as creation and **cybersecurity** as protection — mastering both is my way of shaping the digital world. 🌐🛡️
+ 
+[![](https://img.shields.io/badge/linkedin-0a66c2)]()
+
+ 
+</pre>
+ 
+</div>
+
