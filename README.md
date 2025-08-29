@@ -11,7 +11,7 @@
 
 
 
- 
+
  **Technologies I Work With**<br>
 - ➺ **Languages:** C#, SQL  
 - ➺ **Frameworks:** .NET, ASP.NET Core, Entity Framework  
@@ -21,6 +21,7 @@
 </div>
 <div>
      
-**About Me** <br>
+**About Me** 
+
 Creating, breaking, and rebuilding are all part of my evolution. 
 </div>
